@@ -9,11 +9,13 @@
 
 I'm a teen trying to learn programming and get a job in the field! A proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha.~~ I build cool sites (at least to me) and Slack/Discord bots. I enjoy learning new libraries and trying new languages out! 
 
-I've attended Counterspell Ottawa, a 24-hour hackathon game-jam at Shopify HQ. That place is awesome (if anyone at Shopify is somehow reading this, hiii!) and 11/10 would recommend working there (and I mean it! The vibes are amazing, open-floor, no offices and the couches are quite nice). That was an amazing experience and I encourage everyone to go to one!
+I hope to positively impact society and make the world a techier and cooler place, and not make the robot which ends up taking over the globe. Computers and tech are borderline magic, and I think they can be used for so much good in the world (just think about hospital MRI machines, x-rays, planes, cars, phones)!
+
+I've attended Counterspell Ottawa, a 24-hour hackathon game jam at Shopify HQ. That place is awesome (if anyone at Shopify is somehow reading this, hiii!) and 11/10 would recommend working there (and I mean it! The vibes are amazing, open-floor, no offices and the couches are quite nice). That was an amazing experience and I encourage everyone to go to one!
 
 ## Goals:
 - Survive when robots take over Earth
-- Get a job (Google?!?)
+- Get a job
 - Don't disappoint my parents
 - Pass high school pls
 
@@ -43,7 +45,7 @@ Why isn't there a learned section? You never stop learning, tech always changes 
 
 ## My Stats:
 
-Not very impressive... idc
+Not very impressive... oh well
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=felixgao-0&theme=dark" alt="My github stats" style="height: 200px; width: auto; flex: 1; max-width: 100%;">
