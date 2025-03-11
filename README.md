@@ -7,11 +7,11 @@
 
 ## My name is Felix!
 
-I'm a teen trying to learn programming and get a job in the field! A proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha.~~ I build cool sites (at least to me) and Slack/Discord bots. I enjoy learning new libraries and trying new languages out! 
+I'm a teen trying to learn programming and get a job in the field! A proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha.~~ I build cool sites (at least to me) and Slack/Discord bots. I enjoy learning new libraries and trying new languages out! I am interested in urban design/planning, philosophy, social sciences, astronomy, and more :D.
 
 I hope to positively impact society and make the world a techier and cooler place, and not make the robot which ends up taking over the globe. Computers and tech are borderline magic, and I think they can be used for so much good in the world (just think about hospital MRI machines, x-rays, planes, cars, phones)!
 
-I've attended Counterspell Ottawa, a 24-hour hackathon game jam at Shopify HQ. That place is awesome (if anyone at Shopify is somehow reading this, hiii!) and 11/10 would recommend working there (and I mean it! The vibes are amazing, open-floor, no offices and the couches are quite nice). That was an amazing experience and I encourage everyone to go to one!
+I've attended Counterspell Ottawa, a 24-hour hackathon game jam at Shopify HQ. That place is awesome (if anyone at Shopify is somehow reading this, hiii!) and 11/10 would recommend working there (and I mean it! The vibes are amazing, open-floor, and the couches are quite nice lol). That was an amazing experience and I encourage everyone to go to one!
 
 ## Goals:
 - Survive when robots take over Earth
