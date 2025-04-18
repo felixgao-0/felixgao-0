@@ -19,7 +19,7 @@ Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackat
 
 ## Goals:
 - Survive when robots take over Earth
-- Get a job
+- ~~Get a job~~ I now do community newsletter stuff for Hack Club!
 - Don't disappoint my parents [impossible]
 - Pass high school pls
 
