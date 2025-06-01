@@ -25,23 +25,25 @@ Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackat
 
 ## Find Me!
 - I'm on Hack Club's Slack, my username is @Felix Gao!
-- Something will be added to my website eventually, [felixgao.dev](https://felixgao.dev).
+- Something will be added to my website _eventually_, [felixgao.dev](https://felixgao.dev).
+- Email me! `[only my first name]@hackclub.com`
 
 ### Currently Learning/Messing Around With:
-![Static Badge](https://img.shields.io/badge/PYTHON-D?style=for-the-badge&logo=Python&color=367ab1&logoColor=white)
-![Static Badge](https://img.shields.io/badge/HTML-D?style=for-the-badge&logo=html5&color=f06529&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-D?style=for-the-badge&logo=css3&color=2b61ec)
-![Static Badge](https://img.shields.io/badge/Javascript-D?style=for-the-badge&logo=javascript&color=#f0d81e&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PortgreSQL-D?style=for-the-badge&logo=postgresql&color=212121&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tailwind-D?style=for-the-badge&logo=tailwindcss&color=purple&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nodedotjs-D?style=for-the-badge&logo=node%2Ejs&color=5FA04E&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-D?style=for-the-badge&logo=Python&color=367ab1&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-D?style=for-the-badge&logo=html5&color=f06529&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-D?style=for-the-badge&logo=css3&color=2b61ec)
+![Javascript](https://img.shields.io/badge/Javascript-D?style=for-the-badge&logo=javascript&color=#f0d81e&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D?style=for-the-badge&logo=postgresql&color=212121&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-D?style=for-the-badge&logo=tailwindcss&color=purple&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodedotjs-D?style=for-the-badge&logo=node%2Ejs&color=5FA04E&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-D?style=for-the-badge&logo=astro&color=white&logoColor=#BC52EE)
   
 ### Interested in Learning:
-![Static Badge](https://img.shields.io/badge/Java-D?style=for-the-badge&logo=java&color=1f7fb6&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C++-D?style=for-the-badge&logo=cplusplus&color=6295cc&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Typescript-D?style=for-the-badge&logo=typescript&color=blue&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Other_Web_Technologies-red?style=for-the-badge&color=red&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Computer_&_Web_Security-green?style=for-the-badge&color=green&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D?style=for-the-badge&logo=java&color=1f7fb6&logoColor=white)
+![C++](https://img.shields.io/badge/C++-D?style=for-the-badge&logo=cplusplus&color=6295cc&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-D?style=for-the-badge&logo=typescript&color=blue&logoColor=white)
+![Other Web Technologies](https://img.shields.io/badge/Other_Web_Technologies-red?style=for-the-badge&color=red&logoColor=white)
+![Computer_&_Web_Security](https://img.shields.io/badge/Computer_&_Web_Security-green?style=for-the-badge&color=green&logoColor=white)
 
 Why isn't there a learned section? You never stop learning, tech always changes and you need to adapt with it :) (This is an excuse for my bad coding skills /j).
 
@@ -49,7 +51,7 @@ Why isn't there a learned section? You never stop learning, tech always changes 
 
 ## My Stats:
 
-Not very impressive... oh well
+Not the most impressive but aw welp
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=felixgao-0&theme=dark" alt="My github stats" style="height: 200px; width: auto; flex: 1; max-width: 100%;">
