@@ -29,7 +29,7 @@ Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackat
 - Email me! `[only my first name]@hackclub.com`
 
 ## My Tech Stack
-### I've shipped projects with...
+### I've shipped projects using...
 ![Python](https://img.shields.io/badge/PYTHON-D?style=for-the-badge&logo=Python&color=367ab1&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-D?style=for-the-badge&logo=html5&color=f06529&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-D?style=for-the-badge&logo=css3&color=2b61ec)
@@ -40,6 +40,7 @@ Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackat
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-D?style=for-the-badge&logo=tailwindcss&color=purple&logoColor=white)
 ![Node.js](https://img.shields.io/badge/nodedotjs-D?style=for-the-badge&logo=node%2Ejs&color=5FA04E&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-D?style=for-the-badge&logo=astro&color=white&logoColor=#BC52EE)
+![Vercel](https://img.shields.io/badge/Vercel-D?style=for-the-badge&logo=vercel&color=black&logoColor=#FFFFFF)
   
 ### Sometime I wanna try...
 ![Java](https://img.shields.io/badge/Java-D?style=for-the-badge&logo=java&color=1f7fb6&logoColor=white)
