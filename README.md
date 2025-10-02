@@ -30,24 +30,26 @@ Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackat
 
 ## My Tech Stack
 ### I've shipped projects using...
-![Python](https://img.shields.io/badge/PYTHON-D?style=for-the-badge&logo=Python&color=367ab1&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-D?style=for-the-badge&logo=html5&color=f06529&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-D?style=for-the-badge&logo=css3&color=2b61ec)
-![Javascript](https://img.shields.io/badge/Javascript-D?style=for-the-badge&logo=javascript&color=#f0d81e&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D?style=for-the-badge&logo=postgresql&color=212121&logoColor=white)
+![Python](https://img.shields.io/badge/Python-367AB1?style=for-the-badge&logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2b61ec?style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/badge/Javascript-f0d81e?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### I'm messing around with...
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-D?style=for-the-badge&logo=tailwindcss&color=purple&logoColor=white)
-![Node.js](https://img.shields.io/badge/nodedotjs-D?style=for-the-badge&logo=node%2Ejs&color=5FA04E&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-D?style=for-the-badge&logo=astro&color=white&logoColor=#BC52EE)
-![Vercel](https://img.shields.io/badge/Vercel-D?style=for-the-badge&logo=vercel&color=black&logoColor=#FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-purple?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=node%2Ejs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=#BC52EE)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=#FFFFFF)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-f62002?style=for-the-badge&logo=rubyonrails)
   
-### Sometime I wanna try...
-![Java](https://img.shields.io/badge/Java-D?style=for-the-badge&logo=java&color=1f7fb6&logoColor=white)
-![C++](https://img.shields.io/badge/C++-D?style=for-the-badge&logo=cplusplus&color=6295cc&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-D?style=for-the-badge&logo=typescript&color=blue&logoColor=white)
-![Other Web Technologies](https://img.shields.io/badge/Other_Web_Technologies-red?style=for-the-badge&color=red&logoColor=white)
-![Computer_&_Web_Security](https://img.shields.io/badge/Computer_&_Web_Security-green?style=for-the-badge&color=green&logoColor=white)
+### Some day, I want to try...
+![Java](https://img.shields.io/badge/Java-1f7fb6?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![C++](https://img.shields.io/badge/C++-6295cc?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Other Web Technologies](https://img.shields.io/badge/Other_Web_Technologies-red?style=for-the-badge&logoColor=white)
+![Computer_&_Web_Security](https://img.shields.io/badge/Computer_&_Web_Security-green?style=for-the-badge&logoColor=white)
 
 Why isn't there a learned section? You never stop learning, tech always changes and you need to adapt with it :) (This is an excuse for my bad coding skills /j).
 
