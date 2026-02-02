@@ -7,15 +7,16 @@
 
 ## My name is Felix!
 
-I'm a teen trying to learn programming and get a job in the field! A proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha.~~ I build cool sites (at least to me) and Slack/Discord bots. I enjoy learning new libraries and trying new languages out! I am interested in urban design/planning, philosophy, social sciences, astronomy, and more :D.
+I'm a teen trying to learn programming and get a job in the field! A proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha~~. I build a lot of side projects in my free time (some of which I actually finish!). They comprise of Slack and Discord bots, as well as a couple websites. I enjoy learning new libraries and trying new languages out! I am interested in urban design/planning, philosophy, social sciences, astronomy, and more :D.
 
 I hope to positively impact society and make the world a techier and cooler place, and not make the robot which ends up taking over the globe. Computers and tech are borderline magic, and I think they can be used for so much good in the world (just think about hospital MRI machines, x-rays, planes, cars, phones)!
 
+<details>
+<summary><i>Read more... (hackathons)</i></summary>
 I've attended Counterspell Ottawa (November 2024), a 24-hour hackathon game jam at Shopify HQ. That place is awesome (if anyone at Shopify is somehow reading this, hiii!) and 11/10 would recommend working there (and I mean it! The vibes are amazing, open-floor, and the couches are quite nice lol). That was an amazing experience and I encourage everyone to go to one!
-
-Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackathon where you build stupid stuff. Being my second hackathon, it did NOT disappoint :D. I've met new peeps and had so much fun. Hackathons really = magic and they hold a special slot in my heart. We built an alarm block anyone across the globe can set (and thus wake you up at 3am cause why not). I've learned lessons here from teamwork and communication to debugging (pro tip: never assume the hardware works). Somehow we won 1st place for it :D.
-
-<!--![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4821c5df25a9d4715da44030c93d6ece6cb2a5f2_image.png)-->
+<br></br>
+Since then (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackathon where you build stupid stuff. Being my second hackathon, it did NOT disappoint :D. I've met new peeps and had so much fun. Hackathons really = magic and they hold a special slot in my heart. We built an alarm block anyone across the globe can set (and thus wake you up at 3am cause why not). I've learned lessons here from teamwork and communication to debugging (pro tip: never assume the hardware works). Somehow we won 1st place for it :D.
+</details>
 
 ## Goals:
 - Survive when robots take over Earth
@@ -26,7 +27,7 @@ Since than (March 2025), I've also attended Scrapyard Hamilton, a 24-hour hackat
 ## Find Me!
 - I'm on Hack Club's Slack, my username is @Felix Gao!
 - Something will be added to my website _eventually_, [felixgao.dev](https://felixgao.dev).
-- Email me! `[only my first name]@hackclub.com`
+- Email me! `[only my first name]@hackclub.com` or `me@[the personal website you saw above ^]`
 
 ## My Tech Stack
 ### I've shipped projects using...
