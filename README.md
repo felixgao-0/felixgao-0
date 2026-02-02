@@ -7,6 +7,10 @@
 
 ## My name is Felix!
 
+|[LinkedIn](https://www.linkedin.com/in/felixgao0)|[Website (currently down)](https://felixgao.dev)|
+|---|---|
+
+---
 I'm a teen trying to learn programming and get a job in the field! A proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha~~. I build a lot of side projects in my free time (some of which I actually finish!). They comprise of Slack and Discord bots, as well as a couple websites. I enjoy learning new libraries and trying new languages out! I am interested in urban design/planning, philosophy, social sciences, astronomy, and more :D.
 
 I hope to positively impact society and make the world a techier and cooler place, and not make the robot which ends up taking over the globe. Computers and tech are borderline magic, and I think they can be used for so much good in the world (just think about hospital MRI machines, x-rays, planes, cars, phones)!
